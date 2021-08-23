@@ -13,25 +13,27 @@ es: &DEFAULT_ES
   header:
     title: Miguel Verdejo
     text: proximamente
-    button: Siguenos
-    buttonlink: "#siguenos"
+    button: Síguenos
+    buttonlink: "#social"
 
-  siguenos:
-    title: "Siguenos"
+  social:
+    title: "Síguenos"
     text: "Redes sociales"
-    section: siguenos
+    section: social
     list:
       - title: "Instagram"
         desc: "Nuestro contenido en Instagram"
         icon: "fab fa-instagram"
+        url: https://instagram.com
       - title: "Facebook"
         desc: "Nuestro contenido en Facebook"
         icon: "fab fa-facebook-f"
+        url: https://facebook.com
   
-  contacto:
+  contact:
     title: "Estaremos próximamente en la calle de la Plaza, Chiclana"
     text: "Tfno: 123456789"
-    section: contacto
+    section: contact
     name: "Nombre*"
     name-validation: "Escriba aquí su nombre"
     email: "Email*"
